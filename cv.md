@@ -34,8 +34,15 @@ function findDifference(a, b) {
     return sum1 > sum2 ? sum1 - sum2 : sum2 - sum1
 }
 ```
+
 ## Education
-* The Academy of the Public Administration
+
+- The Academy of the Public Administration
+
 ## Projects
-* [quiz](https://github.com/kedjzxc/quiz)
-* [simpleSite](https://github.com/kedjzxc/triumph)
+
+- [quiz](https://github.com/kedjzxc/quiz)
+- [simpleSite](https://github.com/kedjzxc/triumph)
+
+## English
+**B1**
