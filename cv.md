@@ -33,5 +33,5 @@ function findDifference(a, b) {
 ## Education
 * The Academy of the Public Administration
 ## Projects
-* [quiz] (https://github.com/kedjzxc/quiz)
-* [simpleSite] (https://github.com/kedjzxc/triumph)
+* [quiz](https://github.com/kedjzxc/quiz)
+* [simpleSite](https://github.com/kedjzxc/triumph)
