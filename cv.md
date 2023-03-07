@@ -1,6 +1,7 @@
 # rsschool-cv
 
 # Kirill Kenzheguzinov
+![Myself](../107144525.jfif)
 
 ## contacts
 
