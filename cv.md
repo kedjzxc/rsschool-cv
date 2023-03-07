@@ -9,7 +9,11 @@
 - Email: kenzheguzinov.kirill@gmail.com
 - GitHub: [kedjzxc](https://github.com/kedjzxc)
 
-## skills
+## About me
+
+Studied at the tester courses in the summer of 2022, before that he completed the task of freelancing websites, after completing the courses he decided to return to the frontend. Now I am a practicing front-end developer, at the moment I am learning React. From soft skills I can list learning and love for teamwork
+
+## Skills
 
 - HTML
 - CSS (SASS/SCSS)
