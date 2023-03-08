@@ -155,3 +155,8 @@ body {
     font-size: 30px;
     margin-bottom: 10px;
 }
+
+.cv__code-block {
+    background-color: rgb(165, 165, 165);
+    padding: 20px;
+}
