@@ -95,6 +95,20 @@
                         </li>
                     </ul>
                 </section>
+                <section class="cv__code">
+                    <h3 class="cv__code-title">code example</h3>
+                    <code>
+                        function findDifference(a, b) {
+                            let sum1 = a.reduce((acum, item) => {
+                                return acum *= item
+                            })
+                            let sum2 = b.reduce((acum, item) => {
+                                return acum *= item
+                            })
+                            return sum1 > sum2 ? sum1 - sum2 : sum2 - sum1
+                        }
+                    </code>
+                </section>
             </div>
         </div>
       </div>
